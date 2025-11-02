@@ -22,5 +22,5 @@
   - 支持制作、商店、任务奖励、种植系统分析
   - 自动在启动时打印所有物品获取方式
 
-## 注
-代码参考了 https://github.com/Lexcellent/SuperPerkShop，特别鸣谢
+## 特别鸣谢
+代码参考了 https://github.com/Lexcellent/SuperPerkShop
